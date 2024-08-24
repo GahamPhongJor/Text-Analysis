@@ -1,5 +1,5 @@
 # Text-Analysis
-Text analysis by creating objects and methods in class
+Text analysis by creating objects and methods in class utilizing Python in Jupyter Notebook.
 
 ## Objectives
  
