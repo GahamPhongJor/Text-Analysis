@@ -20,6 +20,4 @@ After converting the text to lowercase, you want to determine the frequency of e
 Task 3. Frequency of a specific word:
 In addition to analyzing the overall word frequencies, you want to specifically track the frequency of a particular word that is relevant to your analysis. For example, you might be interested in monitoring how often the word "reliable" appears in customer reviews to gauge customer sentiment about the product's reliability. By focusing on the frequency of a specific word, you can gain a deeper understanding of customer opinions or preferences related to that particular aspect.
 
-By performing these tasks on the customer feedback dataset, you can gain valuable insights into customer sentiment
-
 
